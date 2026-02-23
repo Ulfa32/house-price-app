@@ -14,7 +14,7 @@ Proyek ini mencakup proses preprocessing data, pelatihan model, hyperparameter t
     │<br>
     ├── app.py                      # Aplikasi prediksi (Streamlit)<br>
     ├── requirements.txt            # Daftar library Python<br>
-    ├── Hasil dan Pembahasan        # Dokumen hasil dan pembahasan
+    ├── Hasil dan Pembahasan        # Dokumen hasil dan pembahasan<br>
     └── README.md<br>
 <br>
 🎯 Tujuan Proyek<br>
